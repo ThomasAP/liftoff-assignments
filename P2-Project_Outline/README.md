@@ -20,7 +20,7 @@ Additionally, app may allow user to set weight goal and track weight gain/loss o
 1: Add/Edit/Delete Nutrition Plan,
 2: Add/Edit/Delete Foods,
 3: Budget tracking/calculation based off monthly budget,
-4. User Login,
+4. User Sign-up,
 -----------------------------------------------------------
 5. View Previous Daily/Weekly/Monthly Records
 6. Set Weight Goals
