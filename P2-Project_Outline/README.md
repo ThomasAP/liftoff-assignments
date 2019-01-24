@@ -7,36 +7,39 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
 
-My app aims to aid in identifying affordable food items that follow a certain diet/nutrition plan. User might also have available for them a list of nutritional plans for different purposes (weight lifting, running/endurance, different sports, beauty related [brighter skin, thicker hair, etc.])that once selected will provide a similar list with items to aid in those regards. 
 
-User will be able to use my app in one of two ways: 
-1 - User can select a diet plan, a time of day, and a location and receive a list of items that fit the diet
-2 - User can search for an item and it will appear on list of diet plans that allow for it (or some similar variation of this functionality)
+My app aims to aid in identifying affordable food items that follow criteria of user-created diet/nutrition plan. User can create and define their own nutrition plans, add foods to their plans, and later query database by price, food name, nutrition plan, etc. to quickly and easily find something to eat that fits their needs.
 
+User will also be able to set a food budget at the beginning of the month in order to calculate a daily/weekly food budget. When user is over or under budget for a given month, the difference will be added/subtracted to/from the next month's budget.
+
+Additionally, app may allow user to set weight goal and track weight gain/loss over time.
 ### Features
-Include Features here
 
-1: Item Search
-2: Sort
-3: Tips
-4. User Login
+
+1: Add/Edit/Delete Nutrition Plan,
+2: Add/Edit/Delete Foods,
+3: Budget tracking/calculation based off monthly budget,
+4. User Login,
+-----------------------------------------------------------
+5. View Previous Daily/Weekly/Monthly Records
+6. Set Weight Goals
+7. Track Weight Loss
 
 
 ### Technologies
-Include Technologies here
-
-C#
-MVC
-Razer
-SQL
 
 
-### What I'll Have to Learn
-Include what you will need to learn here
+C#, 
+ASP.NET Core MVC, 
+Razer, 
+SQL, 
 
-How to integrate the Walmart and other store APIs to search and display relevant items
+
+### What I'll Have to (Re)Learn
+
+1: User Authentication - Hashing/Salting,
+2: How to Integrate a live database
 
 
 ### Project Tracker
