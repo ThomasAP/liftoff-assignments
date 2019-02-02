@@ -17,10 +17,10 @@ Additionally, app may allow user to set weight goal and track weight gain/loss o
 ### Features
 
 
-1: Add/Edit/Delete Nutrition Plan,
-2: Add/Edit/Delete Foods,
-3: Budget tracking/calculation based off monthly budget,
-4. User Sign-up,
+1. Add/Edit/Delete Nutrition Plan
+2. Add/Edit/Delete Foods
+3. Budget tracking/calculation based off monthly budget
+4. User Sign-up
 -----------------------------------------------------------
 5. View Previous Daily/Weekly/Monthly Records
 6. Set Weight Goals
@@ -30,16 +30,18 @@ Additionally, app may allow user to set weight goal and track weight gain/loss o
 ### Technologies
 
 
-C#, 
-ASP.NET Core MVC, 
-Razer, 
-SQL, 
+* C# 
+* ASP.NET Core MVC
+* Razer
+* SQL
+* HTMl/CSS
 
 
 ### What I'll Have to (Re)Learn
 
-1: User Authentication - Hashing/Salting,
-2: How to Integrate a live database
+
+* User Authentication - Hashing/Salting,
+* How to Integrate a live database
 
 
 ### Project Tracker
